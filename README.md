@@ -14,7 +14,7 @@ Any changes you make to your deployed app will be automatically pushed to this r
 
 Your project is live at:
 
-**[https://vercel.com/amruta3537s-projects/v0-zip-file-error-fix](https://vercel.com/amruta3537s-projects/v0-zip-file-error-fix)**
+**[Click Here To Go to Website (Project is not coompleted yet)](https://vision-rental-project-trial.vercel.app)**
 
 ## Build your app
 
